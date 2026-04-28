@@ -62,7 +62,7 @@ function draw() {
   noStroke();
   textSize(32); // 加大文字
   textAlign(CENTER, TOP);
-  text("123456789陳OO文字", width / 2, 20);
+  text("414730142葉亭妤", width / 2, 20);
 
   // 顯示狀態訊息 (左上角)
   textSize(16);
